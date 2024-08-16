@@ -22,7 +22,7 @@ This project is a submission for Sparkathon 2024, presenting an Ecommerce websit
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AnuragJha003/WalmartSparklathon2024.git
+   git clone https://github.com/AnuragJha003/Sparkathon2024.git
    ```
 
 2. Install dependencies for frontend and backend:
